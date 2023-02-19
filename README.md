@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Rommel C. Ramos</h1>
+<h3 align="center">🔭 a 3rd year Information Technology student🌐</h3>
+
+- 🌱 I’m currently learning **Laravel Framework**
+- 📫 How to reach me **ramosrommel2001@gmail.com**
+- 🖥️ I'm interested in **Web Development**
+- 🥰 I love **Em**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/Melem143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rommel C. Ramos" height="30" width="40" /></a>
+<a href="https://www.instagram.com/melramos143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rommel C. Ramos" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanzilot&show_icons=true&locale=en&layout=compact" alt="melemmel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melemmel&" alt="melemmel" /></p>
+
+
+
