@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Laravel Framework**
 - 📫 How to reach me **ramosrommel2001@gmail.com**
 - 🖥️ I'm interested in **Web Development**
-- 🥰 I love **Em**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
