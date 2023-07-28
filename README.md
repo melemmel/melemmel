@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rommel C. Ramos</h1>
-<h3 align="center">🔭 a 3rd year Information Technology student🌐</h3>
+<h3 align="center">🔭 a 4rth year Information Technology student🌐</h3>
 
 - 🌱 I’m currently learning **Laravel Framework**
 - 📫 How to reach me **ramosrommel2001@gmail.com**
