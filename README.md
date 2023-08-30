@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Rommel C. Ramos</h1>
-<h3 align="center">🔭 a 4th year Information Technology student🌐</h3>
+<h1 align="center">Hi 👋, I'm Mel</h1>
 
 - 🌱 I’m currently learning **Laravel Framework**
 - 📫 How to reach me **ramosrommel2001@gmail.com**
 - 🖥️ I'm interested in **Web Development**
+- 🔭 I’m currently working on Web - Based La Purisima National High School Library Management System with Dactylogram Biometrics as UI Designer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
