@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Mel</h1>
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently learning **Blazor Framework**
 - 📫 How to reach me **ramosrommel2001@gmail.com**
 - 🖥️ I'm interested in **Web Development**
 
