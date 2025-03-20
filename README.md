@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melemmel" alt="melemmel" /></a> </p>
 
-- 🌱 I’m currently learning **Blazor Frameworks**
+- 🌱 I’m currently learning **Laravel Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://melemmel.github.io/mel-portfolio/](https://rommel-ramos-portfolio.vercel.app/)
 
