@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rommel Ramos</h1>
-<h3 align="center">Software Developer | IT Analyst Programmer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20👋,%20I'm%20Rommel%20Ramos&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20IT%20Analyst%20Programmer&descAlignY=55&descSize=25&font=Poppins" alt="Header" width="100%" />
+</div>
 
 <p align="center">
   <em>Building modern web applications with efficient, scalable solutions</em>
@@ -11,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="25" /> About Me
 
 As a web developer and IT analyst programmer, I'm driven by a passion for using technology to solve real-world problems. I specialize in building modern web applications using **Laravel, PHP, JavaScript, and MySQL**, with a focus on creating efficient, scalable solutions.
 
@@ -19,15 +20,15 @@ I value continuous learning and collaboration, always seeking to expand my techn
 
 ---
 
-## 🚀 Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Current Focus
 
-- 🌱 Currently deepening my expertise in **Laravel Framework**
-- 🎯 Building queue management systems, library automation, and e-commerce platforms
-- 📍 Based in **Pasay City, Metro Manila**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learning" width="20" /> Currently deepening my expertise in **Laravel Framework**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Projects" width="20" /> Building queue management systems, library automation, and e-commerce platforms
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" alt="Location" width="20" /> Based in **Pasay City, Metro Manila**
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> Tech Stack
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -51,31 +52,7 @@ I value continuous learning and collaboration, always seeking to expand my techn
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melemmel&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melemmel&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melemmel&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true&langs_count=8)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=melemmel&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
----
-
-## 📫 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Connect" width="25" /> Let's Connect
 
 <p align="center">
   <a href="https://rommel-ramos2.vercel.app/" target="_blank">
