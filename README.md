@@ -1,31 +1,128 @@
-<h1 align="center">Hi 👋, I'm Mel</h1>
-<h3 align="center">As a web developer and IT analyst programmer, I'm driven by a passion for using technology to solve real-world problems. I specialize in building modern web applications using Laravel, PHP, JavaScript, and MySQL, with a focus on creating efficient, scalable solutions.
+<h1 align="center">Hi 👋, I'm Rommel Ramos</h1>
+<h3 align="center">Software Developer | IT Analyst Programmer</h3>
 
-I value continuous learning and collaboration, always seeking to expand my technical expertise while working effectively in team environments. My approach combines technical proficiency with a commitment to innovation, ensuring that every project delivers meaningful impact.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melemmel&label=Profile%20views&color=0e75b6&style=flat" alt="melemmel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melemmel" alt="melemmel" /></a> </p>
-
-- 🌱 I’m currently learning **Laravel Frameworks**
-
-- 👨‍💻 All of my projects are available at [https://melemmel.github.io/mel-portfolio/](https://rommel-ramos-portfolio.vercel.app/)
-
-- 💬 Ask me about **laravel**
-
-- 📫 How to reach me **ramosrommel2001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rommel-ramos-846171287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rommel-ramos-846171287/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/melemmel2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/melemmel2001/" height="30" width="40" /></a>
+<p align="center">
+  <em>Building modern web applications with efficient, scalable solutions</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=melemmel&label=Profile%20views&color=0e75b6&style=flat" alt="melemmel" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melemmel&show_icons=true&locale=en&layout=compact" alt="melemmel" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melemmel&show_icons=true&locale=en" alt="melemmel" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melemmel&" alt="melemmel" /></p>
+As a web developer and IT analyst programmer, I'm driven by a passion for using technology to solve real-world problems. I specialize in building modern web applications using **Laravel, PHP, JavaScript, and MySQL**, with a focus on creating efficient, scalable solutions.
+
+I value continuous learning and collaboration, always seeking to expand my technical expertise while working effectively in team environments. My approach combines technical proficiency with a commitment to innovation, ensuring that every project delivers meaningful impact.
+
+---
+
+## 🚀 Current Focus
+
+- 🌱 Currently deepening my expertise in **Laravel Framework**
+- 💼 Working as **IT Analyst Programmer** at Country Funders Finance Corporation
+- 🎯 Building queue management systems, library automation, and e-commerce platforms
+- 📍 Based in **Pasay City, Metro Manila**
+
+---
+
+## 💼 Featured Projects
+
+### 🎫 [WaitWise](https://rommel-ramos2.vercel.app/)
+Queue Transaction Management System that streamlines customer service processes and optimizes counter operations.
+
+**Tech Stack:** Laravel • PHP • Bootstrap • MySQL • JavaScript
+
+### 📚 [Biolib](https://rommel-ramos2.vercel.app/)
+Library Management System for La Purisima National High School with biometric-based patron management.
+
+**Tech Stack:** Laravel • PHP • Tailwind CSS • Java • MySQL
+
+### 📊 [Tabulation Management System](https://rommel-ramos2.vercel.app/)
+Automated tabulation platform for managing scores, rankings, and results for various events.
+
+**Tech Stack:** Laravel • PHP • Bootstrap • MySQL • JavaScript
+
+### 🛒 [EchoCart](https://rommel-ramos2.vercel.app/)
+Full-featured e-commerce platform with user and admin panels for complete store management.
+
+**Tech Stack:** Laravel • PHP • Bootstrap • MySQL • JavaScript
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melemmel&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melemmel&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melemmel&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=melemmel&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://rommel-ramos2.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:rommelramos.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/rommel-ramos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/melemmel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>💡 "Building solutions that make a difference, one line of code at a time."</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</p>
