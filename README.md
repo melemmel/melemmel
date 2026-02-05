@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mel</h1>
-<h3 align="center">As an aspiring web developer, I'm driven by a passion for using technology to solve problems. I value learning and collaboration, with a commitment to innovation and making a positive impact through teamwork.</h3>
+<h3 align="center">As a web developer and IT analyst programmer, I'm driven by a passion for using technology to solve real-world problems. I specialize in building modern web applications using Laravel, PHP, JavaScript, and MySQL, with a focus on creating efficient, scalable solutions.
+
+I value continuous learning and collaboration, always seeking to expand my technical expertise while working effectively in team environments. My approach combines technical proficiency with a commitment to innovation, ensuring that every project delivers meaningful impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melemmel&label=Profile%20views&color=0e75b6&style=flat" alt="melemmel" /> </p>
 
