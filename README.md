@@ -53,25 +53,25 @@ I value continuous learning and collaboration, always seeking to expand my techn
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melemmel&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melemmel&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melemmel&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melemmel&theme=radical&hide_border=false)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melemmel&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melemmel&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true&langs_count=8)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melemmel&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=melemmel&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+
+</div>
 
 ---
 
