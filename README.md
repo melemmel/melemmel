@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20👋,%20I'm%20Rommel%20Ramos&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20IT%20Analyst%20Programmer&descAlignY=55&descSize=25&font=Poppins" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=280&section=header&text=Hi,%20I'm%20Rommel%20Ramos&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20IT%20Analyst%20Programmer&descAlignY=55&descSize=25&font=Poppins" alt="Header" width="100%" />
 </div>
 
 <p align="center">
@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=melemmel&label=Profile%20views&color=0e75b6&style=flat" alt="melemmel" />
+  <img src="https://komarev.com/ghpvc/?username=melemmel&label=Profile%20views&color=000000&style=flat" alt="melemmel" />
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="25" /> About Me
+## About Me
 
 As a web developer and IT analyst programmer, I'm driven by a passion for using technology to solve real-world problems. I specialize in building modern web applications using **Laravel, PHP, JavaScript, and MySQL**, with a focus on creating efficient, scalable solutions.
 
@@ -20,15 +20,15 @@ I value continuous learning and collaboration, always seeking to expand my techn
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Current Focus
+## Current Focus
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learning" width="20" /> Currently deepening my expertise in **Laravel Framework**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Projects" width="20" /> Building queue management systems, library automation, and e-commerce platforms
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" alt="Location" width="20" /> Based in **Pasay City, Metro Manila**
+- Currently deepening my expertise in **Laravel Framework**
+- Building queue management systems, library automation, and e-commerce platforms
+- Based in **Pasay City, Metro Manila**
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> Tech Stack
+## Tech Stack
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -52,7 +52,7 @@ I value continuous learning and collaboration, always seeking to expand my techn
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Connect" width="25" /> Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://rommel-ramos2.vercel.app/" target="_blank">
@@ -72,9 +72,9 @@ I value continuous learning and collaboration, always seeking to expand my techn
 ---
 
 <p align="center">
-  <em>💡 "Building solutions that make a difference, one line of code at a time."</em>
+  <em>"Building solutions that make a difference, one line of code at a time."</em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=100&section=footer" alt="Footer" />
 </p>
