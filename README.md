@@ -22,33 +22,8 @@ I value continuous learning and collaboration, always seeking to expand my techn
 ## 🚀 Current Focus
 
 - 🌱 Currently deepening my expertise in **Laravel Framework**
-- 💼 Working as **IT Analyst Programmer** at Country Funders Finance Corporation
 - 🎯 Building queue management systems, library automation, and e-commerce platforms
 - 📍 Based in **Pasay City, Metro Manila**
-
----
-
-## 💼 Featured Projects
-
-### 🎫 [WaitWise](https://rommel-ramos2.vercel.app/)
-Queue Transaction Management System that streamlines customer service processes and optimizes counter operations.
-
-**Tech Stack:** Laravel • PHP • Bootstrap • MySQL • JavaScript
-
-### 📚 [Biolib](https://rommel-ramos2.vercel.app/)
-Library Management System for La Purisima National High School with biometric-based patron management.
-
-**Tech Stack:** Laravel • PHP • Tailwind CSS • Java • MySQL
-
-### 📊 [Tabulation Management System](https://rommel-ramos2.vercel.app/)
-Automated tabulation platform for managing scores, rankings, and results for various events.
-
-**Tech Stack:** Laravel • PHP • Bootstrap • MySQL • JavaScript
-
-### 🛒 [EchoCart](https://rommel-ramos2.vercel.app/)
-Full-featured e-commerce platform with user and admin panels for complete store management.
-
-**Tech Stack:** Laravel • PHP • Bootstrap • MySQL • JavaScript
 
 ---
 
