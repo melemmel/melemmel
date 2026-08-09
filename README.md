@@ -13,46 +13,43 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 As a web developer and IT analyst programmer, I'm driven by a passion for using technology to solve real-world problems. I specialize in building modern web applications using **Laravel, PHP, JavaScript, and MySQL**, with a focus on creating efficient, scalable solutions.
 
 I value continuous learning and collaboration, always seeking to expand my technical expertise while working effectively in team environments. My approach combines technical proficiency with a commitment to innovation, ensuring that every project delivers meaningful impact.
 
-**Location:** 📍 Pasay City, Metro Manila, Philippines
+**Location:** Pasay City, Metro Manila, Philippines
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🚀 Deepening expertise in **Laravel Framework** and modern PHP development
-- 💼 Building scalable solutions including:
-  - Queue management systems
-  - Library automation platforms
-  - E-commerce applications
-- 📚 Continuous learning and skill enhancement
-- 🤝 Open to collaboration and knowledge sharing
+- Deepening expertise in **Laravel Framework** and modern PHP development
+- Building scalable solutions including queue management systems, library automation platforms, and e-commerce applications
+- Continuous learning and skill enhancement
+- Open to collaboration and knowledge sharing
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🗣️ Languages
+### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Frameworks & Libraries
+### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -61,7 +58,7 @@ I value continuous learning and collaboration, always seeking to expand my techn
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=melemmel&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
@@ -70,43 +67,53 @@ I value continuous learning and collaboration, always seeking to expand my techn
 
 ---
 
-## 🌟 Key Skills
+## Professional Skills
 
-- **Backend Development:** Laravel, PHP, REST APIs, Database Design
-- **Frontend Development:** JavaScript, React, HTML5, CSS3, Responsive Design
-- **Database Management:** MySQL, Query Optimization, Schema Design
-- **Version Control:** Git, GitHub, Collaborative Development
-- **Software Development:** Clean Code, Design Patterns, OOP Principles
-- **Problem Solving:** Debugging, Performance Optimization, System Architecture
-- **Testing & Quality:** Unit Testing, Code Quality Assurance
-- **UI/UX Design:** Figma Prototyping, User-Centered Design
+**Backend Development**
+- Laravel framework and PHP development
+- REST API design and implementation
+- Database design and optimization
+- System architecture and scalability
 
----
+**Frontend Development**
+- JavaScript and modern frameworks
+- React for interactive user interfaces
+- HTML5 and CSS3 for responsive design
+- UI/UX implementation and prototyping
 
-## 🎓 Learning & Development
+**Database Management**
+- MySQL database design and administration
+- Query optimization and performance tuning
+- Schema design and data modeling
 
-I'm constantly expanding my skillset in:
-- ⚡ Advanced Laravel patterns and best practices
-- 🔄 Queue systems and background job processing
-- 🎨 Frontend frameworks and modern JavaScript
-- 📱 Responsive and mobile-first design
-- ☁️ Cloud deployment and DevOps basics
+**Development Tools**
+- Version control with Git and GitHub
+- API testing and debugging with Postman
+- UI/UX design with Figma
+- IDE: Visual Studio Code
 
----
-
-## 💡 Projects Highlight
-
-Here are some of the projects I've worked on:
-
-- **Queue Management System** - Efficient management of queues for service centers
-- **Library Automation Platform** - Complete library management with digital catalog
-- **E-commerce Solutions** - Full-stack e-commerce applications with payment integration
-
-*Check out more projects on my [GitHub repositories](https://github.com/melemmel?tab=repositories)*
+**Soft Skills**
+- Problem-solving and debugging
+- Collaborative team development
+- Clean code principles
+- Continuous learning and adaptation
 
 ---
 
-## 📞 Let's Connect
+## Experience & Expertise
+
+- Queue management system development
+- Library automation platform creation
+- E-commerce platform development
+- Full-stack web application development
+- RESTful API development and integration
+- Database architecture and optimization
+- Responsive web design implementation
+- Cross-browser compatibility testing
+
+---
+
+## Connect
 
 I'm always interested in connecting with fellow developers, collaborating on exciting projects, and exploring new opportunities.
 
@@ -127,12 +134,12 @@ I'm always interested in connecting with fellow developers, collaborating on exc
 
 ---
 
-## 🤝 Open to Opportunities
+## Open to Opportunities
 
-- 💼 **Freelance Projects:** Web development services
-- 🎯 **Collaborations:** Open source projects and team work
-- 📖 **Knowledge Sharing:** Mentoring and tech discussions
-- 🚀 **Innovation:** New technologies and creative solutions
+- Freelance web development projects
+- Collaborative open-source contributions
+- Knowledge sharing and mentoring
+- Innovative technology solutions
 
 ---
 
@@ -147,5 +154,5 @@ I'm always interested in connecting with fellow developers, collaborating on exc
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/melemmel">Rommel Ramos</a>
+  Made with dedication by <a href="https://github.com/melemmel">Rommel Ramos</a>
 </p>
