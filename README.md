@@ -37,33 +37,43 @@ I value continuous learning and collaboration, always seeking to expand my techn
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### Frontend Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Backend Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Design & Prototyping
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+### Mobile & Development
+![React Native](https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Laravel API](https://img.shields.io/badge/Laravel%20API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-## GitHub Statistics
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=melemmel&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melemmel&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+### Productivity & Knowledge
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
 
@@ -71,26 +81,38 @@ I value continuous learning and collaboration, always seeking to expand my techn
 
 **Backend Development**
 - Laravel framework and PHP development
+- CodeIgniter framework
 - REST API design and implementation
-- Database design and optimization
+- Database design and optimization with MySQL, SQL Server, and SQLite
 - System architecture and scalability
+- C# and Blazor development
 
 **Frontend Development**
-- JavaScript and modern frameworks
+- JavaScript and modern frameworks (React, React Native)
 - React for interactive user interfaces
-- HTML5 and CSS3 for responsive design
+- HTML and CSS3 for responsive design
+- Bootstrap and Tailwind CSS for styling
+- jQuery for DOM manipulation
 - UI/UX implementation and prototyping
 
+**Mobile Development**
+- React Native application development
+- Expo Go for mobile development and testing
+
 **Database Management**
-- MySQL database design and administration
+- MySQL, SQL Server, and SQLite administration
 - Query optimization and performance tuning
 - Schema design and data modeling
+
+**Design & Prototyping**
+- UI/UX design with Figma
+- Visual design with Canva
 
 **Development Tools**
 - Version control with Git and GitHub
 - API testing and debugging with Postman
-- UI/UX design with Figma
 - IDE: Visual Studio Code
+- Knowledge management with Obsidian
 
 **Soft Skills**
 - Problem-solving and debugging
@@ -110,6 +132,8 @@ I value continuous learning and collaboration, always seeking to expand my techn
 - Database architecture and optimization
 - Responsive web design implementation
 - Cross-browser compatibility testing
+- Mobile application development with React Native
+- Desktop application development with Blazor and C#
 
 ---
 
